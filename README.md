@@ -1,0 +1,2 @@
+# Xanta-core
+awakening-chronicles
